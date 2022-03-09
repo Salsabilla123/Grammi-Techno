@@ -7,3 +7,5 @@ Hello, we are Grammi Techno. Kami beranggotakan 4 orang yaitu :
 # Menjalankan Project
 Kami membuat website company profile dengan basis website perusahaan yang berjalan pada bidang bisnis penyedia jasa pemotretan.
 Header website terdiri dari Home, About Us, Product and Service, Blog dan Find Us.
+Cara menjalankannya adalah dengan klik saja menu-menu yang terdapat pada header, dan jika kebagian Find Us bisa langsung klik tulisan di samping masing-masing ikon aplikasi
+# kecuali bagian E-mail.
